@@ -1,0 +1,51 @@
+*{
+    background: black;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.Test_Area{
+    margin: 40px ;
+    height: 200px;
+    width: 500px;
+}
+h1{
+    color: white;
+    font-weight: lighter;
+}
+.Counter{
+  width: 170px;
+  font-size: 15px;
+  color: white;
+  
+    }
+.btns{
+  margin-top: 30px;
+}
+.btn{
+  padding: 8px 28px;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+  margin-right: 12px;
+}
+.btn:hover{
+  opacity: 0.7;
+}
+.btn-inc{
+  background: white;
+  color: black;
+  border: 2px solid white;
+}
+.btn-dec{
+  background: white;
+  color: black;
+  border: 2px solid white;
+}
+.btn-clr{
+    border: 2px solid white;
+    padding-left:35px ;
+    padding-right:35px ;
+}
+#Error{
+    color: rgb(180, 49, 49);
+    font-size: 12px;
+}
